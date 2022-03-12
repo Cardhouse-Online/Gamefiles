@@ -1,6 +1,5 @@
 ⚔️ Cardhouse online 🏹
 
-How to start:
 1. Download 💾 here: https://github.com/Cardhouse-Online/Gamefiles/releases/download/v0.0.1/Cardhouse.Online.V0.0.1.zip
 2. Start Game.exe & register (Please write down the password, you cannot reset it)
 
