@@ -16,3 +16,4 @@ labyrinths, legendary tools and much more. Find all 6 legendary keys
 is in the attic of the old Cardhouse!
 
 (According to initial feedback it plays like a combo of a "sci-fi mmo card game" & zelda)
+![thanks](https://user-images.githubusercontent.com/101430037/157996170-46b57dc7-4dd9-4f9e-b2d2-135415447e3c.png)
