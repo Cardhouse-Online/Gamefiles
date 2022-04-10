@@ -1,6 +1,6 @@
 ⚔️ Cardhouse online 🏹
 
-1. Download 💾 here: https://github.com/Cardhouse-Online/Gamefiles/releases/download/v0.0.1/Cardhouse.Online.V0.0.1.zip
+1. Download 💾 here: https://github.com/Cardhouse-Online/Gamefiles/releases/download/v0.0.1b/Card.House.Online.0.0.1b.zip
 2. Start Game.exe & register (Please write down the password, you cannot reset it)
 
 Fight in the old Cardhouse against the first 20 card masters. 
