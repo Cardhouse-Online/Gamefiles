@@ -6,7 +6,7 @@
 Fight in the old Cardhouse against the first 20 card masters. 
 Use the computers to buy better gear online or trade cards. 
 If you don't manage the first 20 card masters in the house, 
-you can leave it at any time with a trainerpass lvl 6 and above. 
+you can leave it at any time with a trainerpass lvl 1 and above. 
 In the outside world the player can go exploring, fishing, hunting, 
 gathering resources for gold and better gear. Also he can find on 
 adventures the rest of the card masters as well as hidden secrets, 
